@@ -29,6 +29,6 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind&perline=4" />
-    <img src="https://skillicons.dev/icons?i=c,python,java,mysql,javascript" /><br>
+    <img src="https://skillicons.dev/icons?i=c,python,java,mysql,javascript&perline=4" /><br>
 </div>
 
