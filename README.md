@@ -4,8 +4,6 @@
 
 <h3 align="center">✌🏻A passionate student from India👾</h3>
 
-<br/>
-
 <div align="center">
  
 🌐 I'm currently exploring the software domain to find where my interest lies.
