@@ -33,6 +33,8 @@
 <br/>
 <hr/>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkshayTeja)](https://github.com/AkshayTeja/github-readme-stats)
+
 <details>
   <summary>Github Stats ⚡</summary>
   
