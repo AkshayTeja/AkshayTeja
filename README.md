@@ -33,15 +33,6 @@
 <br/>
 <hr/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkshayTeja)](https://github.com/AkshayTeja/github-readme-stats)
-
-<details>
-  <summary>Github Stats ⚡</summary>
-  
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=AkshayTeja&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkshayTeja&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
-</details>
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+For+Visiting!;+Hit+Me+Up🫂;" />
 </h1>
