@@ -2,13 +2,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Akshay+Teja!;" />
 </h1>
 
-<h3 align="center">✌🏻A passionate student from India👾</h3>
+<h3 align="center">✌🏻Software Scout | Eternal Optimist | Skill Explorer | Avid Communicator👾</h3>
 
 <div align="center">
  
-🌐 I'm currently exploring the software domain to find where my interest lies.
-
-💻 Presently, working on **Full Stack Development**.
+💻 Working on **Full Stack Development & DevOps**.
 
  </div>
 
@@ -27,7 +25,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=cpp,c,python,java" /><br>
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,react,mysql,mongodb,nodejs,expressjs,nextjs,postman,git,gcp&perline=7" /><br> 
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,react,mysql,mongodb,nodejs,expressjs,nextjs,postman,git,gcp,docker&perline=7" /><br> 
 </div>
 
 <br/>
